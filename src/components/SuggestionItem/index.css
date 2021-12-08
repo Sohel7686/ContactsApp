@@ -1,0 +1,31 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 10px;
+  width: 90%;
+}
+
+.para {
+  font-size: 20px;
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.line {
+  color: #475569;
+  height: 1px;
+  width: 100%;
+}
+
+.icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
